@@ -27,3 +27,11 @@ The program should take as input the path to the source code of the project. It 
 Include in this repository the code of your application. Remove all unnecessary files like compiled binaries. See the [instructions](../sujet.md) for suggestions on the projects to use.
 
 *Disclaimer* In a real project not all fields need to be accessed with a public getter.
+
+We tested our implementation with commons-math-master github project. And we got the following results from generated text file :
+
+Field,Class,Package
+duration, org.apache.commons.math4.userguide.ClusterAlgorithmComparison.ClusterPlot, org.apache.commons.math4.userguide
+PAD, org.apache.commons.math4.userguide.ClusterAlgorithmComparison.ClusterPlot, org.apache.commons.math4.userguide
+clusters, org.apache.commons.math4.userguide.ClusterAlgorithmComparison.ClusterPlot, org.apache.commons.math4.userguide
+FMT_HDR, org.apache.commons.math4.userguide.FastMathTestPerformance, org.apache.commons.math4.userguide
