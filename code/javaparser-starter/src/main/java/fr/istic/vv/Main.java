@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         if(args.length == 0) {
-            System.err.println("Should provide the path to the source code");
+            System.err.println(x:"Please provide the path to the source code.");
             System.exit(1);
         }
 
