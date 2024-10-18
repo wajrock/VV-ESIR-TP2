@@ -1,0 +1,166 @@
+Method: public static List<Vector2D> makeCircles(int samples, boolean shuffle, double noise, double factor, UniformRandomProvider rng), CC: 4
+Method: public static List<Vector2D> makeMoons(int samples, boolean shuffle, double noise, UniformRandomProvider rng), CC: 4
+Method: public static List<Vector2D> makeBlobs(int samples, int centers, double clusterStd, double min, double max, boolean shuffle, UniformRandomProvider rng), CC: 6
+Method: public static List<Vector2D> makeRandom(int samples), CC: 2
+Method: public static Vector2D generateNoiseVector(ContinuousDistribution.Sampler distribution), CC: 1
+Method: public static List<DoublePoint> normalize(final List<Vector2D> input, double minX, double maxX, double minY, double maxY), CC: 1
+Method: protected void paintComponent(Graphics g), CC: 1
+Method: public Dimension getPreferredSize(), CC: 1
+Method: private Clusterable transform(Clusterable point, int width, int height), CC: 1
+Method: public static void main(String[] args), CC: 1
+Method: public Component getMainPanel(), CC: 1
+Method: public void actionPerformed(ActionEvent ae), CC: 3
+Method: public void actionPerformed(ActionEvent e), CC: 1
+Method: public void run(), CC: 3
+Method: public static void showExampleFrame(final ExampleFrame frame), CC: 3
+Method: private static BufferedImage getScreenShot(Component component), CC: 1
+Method: public static BufferedImage resizeImage(BufferedImage originalImage, int width, int height, int type) throws IOException, CC: 1
+Method: public static void main(String[] args), CC: 1
+Method: private static void report(String name, long strictMathTime, long fastMathTime, long mathTime), CC: 1
+Method: private static void assertTrue(boolean condition), CC: 2
+Method: private static void testLog(), CC: 4
+Method: private static void testLog10(), CC: 4
+Method: private static void testLog1p(), CC: 4
+Method: private static void testPow(), CC: 4
+Method: private static void testExp(), CC: 4
+Method: private static void testSin(), CC: 4
+Method: private static void testAsin(), CC: 4
+Method: private static void testCos(), CC: 4
+Method: private static void testAcos(), CC: 4
+Method: private static void testTan(), CC: 4
+Method: private static void testAtan(), CC: 4
+Method: private static void testAtan2(), CC: 7
+Method: private static void testHypot(), CC: 7
+Method: private static void testIEEEremainder(), CC: 7
+Method: private static void testCbrt(), CC: 4
+Method: private static void testSqrt(), CC: 4
+Method: private static void testCosh(), CC: 4
+Method: private static void testSinh(), CC: 4
+Method: private static void testTanh(), CC: 4
+Method: private static void testExpm1(), CC: 4
+Method: private static void testAbs(), CC: 4
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: public Double call() throws Exception, CC: 1
+Method: private static void testSimpleBenchmark(), CC: 1
+Method: public double getX(), CC: 1
+Method: public double getY(), CC: 1
+Method: public double getMeasuredX(), CC: 1
+Method: public double getMeasuredY(), CC: 1
+Method: public double getXVelocity(), CC: 1
+Method: public double getYVelocity(), CC: 1
+Method: public void step(), CC: 4
+Method: public static void cannonballTest(Chart chart), CC: 2
+Method: public static Chart createChart(String title, LegendPosition position), CC: 1
+Method: public static JComponent createComponent(), CC: 1
+Method: public Component getMainPanel(), CC: 1
+Method: public static void main(String[] args), CC: 1
+Method: public double getVoltage(), CC: 1
+Method: public double getMeasuredVoltage(), CC: 1
+Method: public void step(), CC: 1
+Method: public static void constantVoltageTest(Chart chart1, Chart chart2), CC: 2
+Method: public static Chart createChart(String title, int width, int height, LegendPosition position, boolean legendVisible), CC: 1
+Method: public static JComponent createComponent(), CC: 1
+Method: public Component getMainPanel(), CC: 1
+Method: public static void main(String[] args), CC: 1
+Method: public boolean isSatisfied(Population population), CC: 3
+Method: public static void main(String[] args), CC: 3
+Method: private static List<Character> randomRepresentation(int length), CC: 1
+Method: private static List<Character> asList(String str), CC: 1
+Method: private static Population getInitialPopulation(), CC: 2
+Method: public double fitness(), CC: 2
+Method: protected void checkValidity(List<Character> repr) throws InvalidRepresentationException, CC: 2
+Method: public List<Character> getStringRepresentation(), CC: 1
+Method: public StringChromosome newFixedLengthChromosome(List<Character> repr), CC: 1
+Method: public String toString(), CC: 1
+Method: public Chromosome mutate(Chromosome original), CC: 2
+Method: public void actionPerformed(ActionEvent e), CC: 2
+Method: public boolean isAlive(), CC: 1
+Method: public void stopRequest(), CC: 1
+Method: public void run(), CC: 2
+Method: public void startEvolution(), CC: 2
+Method: public Dimension getPreferredSize(), CC: 1
+Method: public Dimension getMinimumSize(), CC: 1
+Method: public Dimension getMaximumSize(), CC: 1
+Method: public void paint(Graphics g), CC: 1
+Method: public static void main(String[] args) throws Exception, CC: 1
+Method: private static BufferedImage resizeImage(BufferedImage originalImage, int width, int height, int type) throws IOException, CC: 1
+Method: private static Population getInitialPopulation(), CC: 2
+Method: public static Polygon randomPolygon(int length), CC: 2
+Method: public Polygon mutate(float mutationRate, float mutationAmount), CC: 5
+Method: public void draw(Graphics2D g, int width, int height), CC: 2
+Method: public static void setRefImage(BufferedImage ref), CC: 1
+Method: public static void setTestImage(BufferedImage image), CC: 1
+Method: protected void checkValidity(List<Polygon> chromosomeRepresentation) throws InvalidRepresentationException, CC: 1
+Method: public AbstractListChromosome<Polygon> newFixedLengthChromosome(List<Polygon> chromosomeRepresentation), CC: 1
+Method: public List<Polygon> getPolygonRepresentation(), CC: 1
+Method: public double fitness(), CC: 3
+Method: public void draw(Graphics2D g, int width, int height), CC: 1
+Method: public String toString(), CC: 1
+Method: public static Chromosome randomChromosome(int polygonLength, int polygonCount), CC: 2
+Method: public Chromosome mutate(Chromosome chromosome), CC: 2
+Method: public static List<Vector2D> makeCircle(int samples, final RandomVectorGenerator generator), CC: 3
+Method: public static List<Vector2D> makeRandom(int samples, RandomVectorGenerator generator), CC: 2
+Method: public static List<Vector2D> normalize(final List<Vector2D> input), CC: 2
+Method: public double[] nextVector(), CC: 1
+Method: protected void paintComponent(Graphics g), CC: 1
+Method: public Dimension getPreferredSize(), CC: 1
+Method: private Vector2D transform(Vector2D point, int width, int height), CC: 1
+Method: public static void main(String[] args), CC: 1

@@ -8,15 +8,9 @@ import com.github.javaparser.utils.SourceRoot;
 
 public class Main {
 
-<<<<<<< HEAD
-    public static void main(String[] args) throws IOException {
-        if(args.length == 0) {
-            System.err.println(x:"Please provide the path to the source code.");
-=======
     public static void main(String[] args) {
         if (args.length == 0) {
             System.err.println("Should provide the path to the source code");
->>>>>>> a2ce425fd8fd82155e9a759f3229b12c793c9f3e
             System.exit(1);
         }
 
