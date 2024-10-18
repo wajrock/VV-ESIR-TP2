@@ -23,3 +23,6 @@ Use your rule with different projects and describe you findings below. See the [
 
 ## Answer
 
+The rule to use to detect the use of three or more nested `if` statements in Java programs is the following one :
+
+IfStatement[descendant::IfStatement[descendant::IfStatement]]

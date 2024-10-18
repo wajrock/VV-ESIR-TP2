@@ -49,4 +49,4 @@ class Example{
 
     TCC = LCC = 6 / 6
 
-- LCC can't be lower than TCC because LCC is based on TCC's number of branches and add new branches by transitivity
+- LCC can't be lower than TCC because LCC is based on TCC's number of branches and add new branches by transitivity.
